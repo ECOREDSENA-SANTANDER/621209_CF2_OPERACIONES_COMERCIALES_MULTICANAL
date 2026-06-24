@@ -3,14 +3,14 @@
   &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 68%
-    left: -10%
+    top: 55%
+    left: -23%
     width: 20%
   &-2
     animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 30%
-    right: 10%
+    top: 10%
+    left: -10%
     width: 20%
 
 
@@ -30,23 +30,25 @@
     width: 33%;
     
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
-  color: $color-sistema-texto !important  
+  color: $white !important  
 
 .boton *, .boton--sm *,
 .barra-avance__boton--regresar span
-  color: $white !important
+  color: $color-sistema-texto !important
 .banner-interno__titulo h1, .banner-interno__titulo h2, 
 .banner-interno__titulo h3, .banner-interno__titulo h4, 
 .banner-interno__titulo h5, .banner-interno__titulo h6
-  color: $color-sistema-texto !important  
+  color: $white !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: $white !important
+  color: $color-sistema-texto !important
 figcaption 
     font-weight: normal !important
 
 .banner-interno__titulo__icono i
     color: $color-acento-botones !important;
 
+.banner-interno__fondo
+    background-image: url(../assets/curso/portada/fondo-banner-temas.png) !important
 
 /**************************************************************/
 /***CUSTOM STYLES***/
@@ -75,6 +77,7 @@ figcaption
 /*Media Queries*/  
 /**************************************************************/
 
+
 //// DESKTOP SMALL 1400--------------------------------------
 @media screen and (max-width: $bp-min-xxl)
   .mb-cus
@@ -86,9 +89,12 @@ figcaption
     margin-bottom: 2em  !important  
   .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
     width: 90% !important
-
-  
- 
+  .banner-principal .tarjeta
+    background-image: none !important  
+    background-color: $color-primario !important
+  .bloque-texto-g
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
@@ -101,6 +107,6 @@ figcaption
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
-
+  
   
  
