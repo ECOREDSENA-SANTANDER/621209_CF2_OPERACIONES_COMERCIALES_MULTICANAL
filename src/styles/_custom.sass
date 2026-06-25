@@ -87,6 +87,26 @@ figcaption
 
 .tabs-a__tab
     background-color: #CCD9DC
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones;
+    border: 0;
+.slyder-a__tipo-a .slyder-a__bullets
+  display: none
+
+.slyder-f__btn i 
+    color: $color-acento-botones
+.slyder__btn 
+    background-color: $color-acento-botones
+
+.linea-tiempo-d .tarjeta 
+  background-color: #A5B0D0 
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #EAFAEF !important
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  color: $color-sistema-texto 
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item__number
+  background-color: $color-acento-botones 
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -114,6 +134,12 @@ figcaption
     background-color: #FDC7A1
   &-2
     background-color: #E5FAFE
+  &-3
+    background-color: #E8EBF3
+  &-4
+    background-color: #A5B0D0
+  &-5
+    background-color: #FFF3EA
   
 
 
@@ -126,6 +152,8 @@ figcaption
     width: 10%
   &-4
     width: 15%
+  &-5
+    width: 25%
 
 .hcard
   &-1
@@ -245,13 +273,18 @@ figcaption
   .bloque-texto-g
     padding-top: 1.5rem !important;
     padding-bottom: 1.5rem !important;
-  
+  .slyder-a__tipo-a .slyder-a__btn--sigt
+        right: -12%;
+  .slyder-a__tipo-a .slyder-a__btn--atrs
+        left: -12%;
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
-
-  
+  .slyder-a__tipo-a .slyder-a__btn--sigt
+        right: -14%;
+  .slyder-a__tipo-a .slyder-a__btn--atrs
+        left: -15%;
 
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
@@ -259,6 +292,10 @@ figcaption
     margin-bottom: 2em  !important
   .tarjeta--container > .tarjeta
     border-radius: 20px !important
+  .slyder-a__tipo-a .slyder-a__btn--sigt
+        right: -14%;
+  .slyder-a__tipo-a .slyder-a__btn--atrs
+        left: -15%;
   
   
  
