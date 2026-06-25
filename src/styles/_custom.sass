@@ -50,6 +50,43 @@ figcaption
 .banner-interno__fondo
     background-image: url(../assets/curso/portada/fondo-banner-temas.png) !important
 
+.cajon.color-secundario
+    background-color: #EDF8FD
+.linea-tiempo-e__item__header:before 
+    top: 4px;
+    right: -15px;
+.tarjeta--boton.color-primario
+    background-color: #A5B0D0
+.tarjeta--boton.color-primario:active, .tarjeta--boton.color-primario:focus, .tarjeta--boton.color-primario:hover
+    background-color: #E8EBF3 !important
+.tarjeta--boton.color-primario:active *, .tarjeta--boton.color-primario:focus *, .tarjeta--boton.color-primario:hover *
+    color: $color-sistema-texto !important
+
+.tarjeta--boton.color-secundario
+    background-color: #BAE4F8
+.tarjeta--boton.color-secundario:active, .tarjeta--boton.color-secundario:focus, .tarjeta--boton.color-secundario:hover
+    background-color: #EDF8FD !important
+.tarjeta--boton.color-secundario:active *, .tarjeta--boton.color-secundario:focus *, .tarjeta--boton.color-secundario:hover *
+    color: $color-sistema-texto !important   
+
+.acordion__accion__btn--b
+    background-color: $color-acento-botones !important;
+    border: 0
+.tarjeta.bg-green
+  background-color: $color-acento-contenido
+.tarjeta.bg-green.acordion__activo
+  background-color: #FFF3EA
+.tarjeta.bg-green.acordion__activo .acordion__titulo h3
+  color: $color-sistema-texto !important
+.acordion__accion__btn--a
+    background-color: $color-acento-botones
+.tabla-a.color-acento-botones thead tr
+    background-color: #CCD9DC !important
+.tabla-a.color-acento-botones thead
+    border-color: #98C113
+
+.tabs-a__tab
+    background-color: #CCD9DC
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -62,17 +99,130 @@ figcaption
   margin-inline: -3.3rem
 .bg-fondo
   &-1
-    //background-image: url(../assets/curso/bg/3.svg)
+    background-image: url(../assets/curso/temas/bg/2.svg)
+.bg
+  &-primario
+    background-color: $color-primario
+  &-secundario
+    background-color: $color-secundario
+  &-color-acento-contenido
+    background-color: $color-acento-contenido
+  &-color-acento-botones
+    background-color: $color-acento-botones
 .bg-color
   &-1
-    background-color: $color-primario
+    background-color: #FDC7A1
+  &-2
+    background-color: #E5FAFE
+  
 
 
+.wcus
+  &-1
+    width: 70%
+  &-2
+    width: 15%
+  &-3
+    width: 10%
+  &-4
+    width: 15%
+
+.hcard
+  &-1
+    height: 370px
 
 
+.br
+  &-1
+    border-radius: 30px
+
+.cursor-pointer .tarjeta-foto-hover
+  cursor: pointer  
+.bg-degrade
+  background: #FFD5B7
+.tarjeta-foto-hover
+  position: relative
+  overflow: hidden
+  &:hover
+    .tarjeta-foto-hover__tarjeta
+      transform: translateY(0%)
+
+  &__titulo
+    position: absolute
+    bottom: 0
+    width: 100%
+  &__tarjeta
+    transition: transform 0.3s ease-in-out
+    position: absolute
+    bottom: 0
+    width: 100%
+    height: 100%
+    transform: translateY(100%)  
+
+.titulo-tercer-nivel
+  width: fit-content
+  max-width: 100%
+  position: relative
+  display: inline-flex
+  align-items: center
+  background-color: $color-primario
+  border-bottom-right-radius: 30px
+  padding-right: 16px
+  padding-left: 60px
+  min-height: 48px
+ 
+  @media screen and (max-width: $bp-min-md)
+    padding-left: 0px
 
 
+  &__icon
+    position: absolute
+    left: -10px
+    top: 50%
+    transform: translateY(-50%)
+    width: 70px
+    max-width: 85px
+    height: auto
 
+    @media screen and (max-width: $bp-min-md)
+      display: none
+
+  &__text
+    margin: 0
+    margin: 0 15px 0 10px
+    white-space: normal
+    word-break: break-word
+    color: $white
+
+
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  border-radius: 20px;
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      h4 
+        color: $color-sistema-texto
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1rem 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #EAFAEF
+    h4
+      color: #FFF
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -107,6 +257,8 @@ figcaption
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+  .tarjeta--container > .tarjeta
+    border-radius: 20px !important
   
   
  
