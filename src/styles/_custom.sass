@@ -107,6 +107,10 @@ figcaption
   color: $color-sistema-texto 
 .linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item__number
   background-color: $color-acento-botones 
+
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto 
+      color: $color-sistema-texto !important
+      font-style: normal !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -140,6 +144,13 @@ figcaption
     background-color: #A5B0D0
   &-5
     background-color: #FFF3EA
+  &-6
+    background-color: #122253
+  &-7
+    background-color: #1E3A8A
+  &-8
+    background-color: #BAE4F8
+
   
 
 
@@ -158,6 +169,12 @@ figcaption
 .hcard
   &-1
     height: 370px
+  &-2
+    height: 350px
+  &-3
+    height: 400px
+  &-4
+    height: 330px
 
 
 .br
@@ -277,6 +294,9 @@ figcaption
         right: -12%;
   .slyder-a__tipo-a .slyder-a__btn--atrs
         left: -12%;
+  .hcard
+    &-2
+      height: auto
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
@@ -290,12 +310,15 @@ figcaption
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+  
   .tarjeta--container > .tarjeta
     border-radius: 20px !important
   .slyder-a__tipo-a .slyder-a__btn--sigt
         right: -14%;
   .slyder-a__tipo-a .slyder-a__btn--atrs
         left: -15%;
-  
+  .hcard
+    &-4
+      height: auto
   
  
