@@ -15,7 +15,7 @@
               p.mb-0 El uso de #[i software] para georreferenciación facilita la toma de decisiones basadas en datos espaciales, mientras que el plan de distribución permite estructurar acciones, recursos y procesos para garantizar que el producto esté disponible en el lugar, momento y condiciones adecuadas.
       
       Separador
-      #t_5_1.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_5_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 5.1 #[i Software] para georreferenciación: concepto y procedimiento de uso.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -37,9 +37,9 @@
 
 
 
-      .row.justify-content-center.mb-5.align-items-center.bg-color-1(data-aos='fade-right')
+      .row.justify-content-center.mb-5.align-items-center.bg-color-4(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t4/9.png', alt='')
+          img(src='@/assets/curso/temas/t5/23.png', alt='')
         .col-sm-12.col-lg-7.p-4
             h4.mb-3 Georreferenciación para mejorar la distribución
             p.mb-0 El #[i software] para georreferenciación permite ubicar clientes, puntos de venta, rutas y centros de distribución en mapas digitales. Su uso ayuda a planificar recorridos, analizar zonas de cobertura, reducir tiempos de desplazamiento y tomar decisiones logísticas con base en información geográfica. 
@@ -80,7 +80,7 @@
 
 
       Separador
-      #t_5_2.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_5_2.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 5.2 Plan de distribución: concepto, estructura, etapas y ejemplo aplicado.
       p.mb-5(data-aos='fade-right') En la gestión comercial, la planificación de la distribución permite organizar de manera estructurada cómo los productos llegarán al cliente final. Este proceso integra decisiones estratégicas y operativas orientadas a optimizar recursos, mejorar la cobertura del mercado y garantizar un servicio eficiente.
 
@@ -196,7 +196,7 @@
 
 
 
-      p.mb-5(data-aos='fade-right') Este ejemplo evidencia cómo la planificación de la distribución integra aspectos estratégicos, logísticos y tecnológicos. La organización de canales, rutas, recursos e indicadores permite mejorar la eficiencia operativa, optimizar recursos y fortalecer la experiencia del cliente en un entorno urbano.
+      
 
 
       .bg-fondo-2.p-5.mb-5(data-aos='fade-right')
@@ -250,7 +250,7 @@
                   p.mb-0 La mejora continua se realiza mediante el análisis periódico de indicadores, lo que permite ajustar rutas, ampliar zonas de cobertura y optimizar los procesos logísticos de acuerdo con el comportamiento de la demanda y las condiciones del entorno.
               .col-sm-12.col-lg-4.d-none.d-lg-block
                 img(src='@/assets/curso/temas/t5/19.png', alt='')
-
+      p.mb-5(data-aos='fade-right') Este ejemplo evidencia cómo la planificación de la distribución integra aspectos estratégicos, logísticos y tecnológicos. La organización de canales, rutas, recursos e indicadores permite mejorar la eficiencia operativa, optimizar recursos y fortalecer la experiencia del cliente en un entorno urbano.
 
 
 

@@ -27,7 +27,7 @@
       
       
       Separador
-      #t_1_1.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_1_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 1.1 Distribución: concepto, tipos, plan, sistemas y utilidades.
       
       
@@ -42,7 +42,7 @@
                   p.mb-0 La distribución se entiende como el conjunto de actividades orientadas a trasladar productos desde el productor hasta el consumidor final, garantizando disponibilidad, accesibilidad y condiciones adecuadas. Este proceso integra funciones logísticas, comerciales y operativas, como transporte, almacenamiento, gestión de inventarios y coordinación de intermediarios. 
             
             .cajon.color-secundario.p-4.mb-3
-              p.mb-0 Desde el enfoque de mercadeo, la distribución corresponde a la variable “plaza” dentro del marketing mix, ya que facilita el acceso del cliente al producto en el lugar y momento adecuados. Su gestión debe estar alineada con el segmento de mercado, el tipo de producto y la estrategia comercial de la organización. 
+              p.mb-0 Desde el enfoque de mercadeo, la distribución corresponde a la variable “plaza” dentro del #[i marketing mix], ya que facilita el acceso del cliente al producto en el lugar y momento adecuados. Su gestión debe estar alineada con el segmento de mercado, el tipo de producto y la estrategia comercial de la organización. 
             
             p.mb-0 En la práctica empresarial, algunas organizaciones optimizan la distribución mediante centros logísticos automatizados, entregas rápidas y sistemas de última milla. Otras empresas aplican redes de distribución intensiva para garantizar presencia en tiendas, supermercados, restaurantes o máquinas dispensadoras.
       
@@ -92,7 +92,7 @@
               .d-flex.flex-row.justify-content-start.align-items-center.mb-4
                 img.wcus-3(src="@/assets/curso/temas/t1/10.svg", alt="")
                 h5.mb-0.mx-3 Distribución exclusiva 
-              p.mb-0 Restringe la distribución a pocos intermediarios autorizados para proteger el posicionamiento y controlar la experiencia del cliente. Se aplica en productos de lujo o marcas premium, como relojes, vehículos o productos de alta gama.
+              p.mb-0 Restringe la distribución a pocos intermediarios autorizados para proteger el posicionamiento y controlar la experiencia del cliente. Se aplica en productos de lujo o marcas #[i premium], como relojes, vehículos o productos de alta gama.
 
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
@@ -105,7 +105,7 @@
           img(src='@/assets/curso/temas/t1/11.png', alt='')
         .col-sm-12.col-lg-8
           p.mb-3 El plan de distribución es un instrumento estratégico que organiza las decisiones relacionadas con la entrega del producto al mercado. Incluye la definición de canales, cobertura geográfica, rutas logísticas, niveles de inventario y tiempos de entrega. Este plan permite coordinar recursos y procesos para lograr eficiencia operativa y cumplir los objetivos comerciales. 
-          p.mb-0 Su estructura debe considerar variables como demanda, capacidad logística, costos y características del producto. Por ejemplo, una empresa de alimentos refrigerados requiere rutas especializadas, control de temperatura, frecuencia de abastecimiento y manejo adecuado de inventarios. De igual manera, una empresa de comercio electrónico puede integrar centros de fulfillment, operadores logísticos y entregas de última milla para lograr tiempos competitivos. 
+          p.mb-0 Su estructura debe considerar variables como demanda, capacidad logística, costos y características del producto. Por ejemplo, una empresa de alimentos refrigerados requiere rutas especializadas, control de temperatura, frecuencia de abastecimiento y manejo adecuado de inventarios. De igual manera, una empresa de comercio electrónico puede integrar centros de #[i fulfillment], operadores logísticos y entregas de última milla para lograr tiempos competitivos. 
 
 
       .titulo-sexto.color-secundario(data-aos="fade-right")
@@ -161,7 +161,7 @@
               .col-5
                   img.mx-auto(src='@/assets/curso/temas/t1/14.svg')
             h4.text-center Sistema multicanal  
-            p.mb-0 Utiliza diferentes canales de forma simultánea, tanto físicos como digitales. Puede incluir tiendas físicas, comercio electrónico, aplicaciones móviles o marketplace, de acuerdo con la estrategia comercial de la empresa. 
+            p.mb-0 Utiliza diferentes canales de forma simultánea, tanto físicos como digitales. Puede incluir tiendas físicas, comercio electrónico, aplicaciones móviles o #[i marketplace], de acuerdo con la estrategia comercial de la empresa. 
 
 
 
@@ -182,7 +182,7 @@
       p.mb-5(data-aos='fade-right') La distribución genera valor porque permite satisfacer necesidades del cliente y mejorar la eficiencia comercial. Estas utilidades explican cómo la distribución facilita el acceso, la compra y el uso del producto.
 
 
-      .row.justify-content-center.mb-5(data-aos='fade-right')
+      .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-6.col-lg-3.mb-cus
           .tarjeta--boton.color-secundario.p-4.hcard-1
             .row.justify-content-center.mb-4
@@ -219,7 +219,7 @@
 
 
       Separador
-      #t_1_2.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_1_2.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 1.2 Canales de distribución: concepto, clasificación, características, estructura y métodos de selección.
       
       
@@ -259,7 +259,7 @@
             .col-6
                 img(src='@/assets/curso/temas/t1/20.svg')          
           h4.text-center.text-white Canal directo
-          p.mb-0.text-white El productor vende directamente al consumidor sin intermediarios. Puede aplicarse en tiendas propias, páginas web o modelos de e-commerce.
+          p.mb-0.text-white El productor vende directamente al consumidor sin intermediarios. Puede aplicarse en tiendas propias, páginas web o modelos de #[i e-commerce].
         .col-md.tarjeta.color-secundario.p-5.mb-cus
           .row.justify-content-center.mb-4
             .col-6
@@ -369,7 +369,7 @@
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-8.d-none.d-lg-block        
           .cajon.color-primario.p-4.mb-3
-            p.mb-0 En la práctica, una empresa puede combinar distribuidores autorizados, retail y comercio electrónico para ampliar su cobertura. También puede utilizar canales digitales que conectan negocios con consumidores, especialmente en entornos urbanos donde la rapidez y la disponibilidad influyen en la decisión de compra. 
+            p.mb-0 En la práctica, una empresa puede combinar distribuidores autorizados, #[i retail] y comercio electrónico para ampliar su cobertura. También puede utilizar canales digitales que conectan negocios con consumidores, especialmente en entornos urbanos donde la rapidez y la disponibilidad influyen en la decisión de compra. 
       
       img.mb-5.d-none.d-lg-block(src='@/assets/curso/temas/t1/26.png', alt='')(data-aos='fade-right')
 
@@ -389,7 +389,7 @@
 
 
       Separador
-      #t_1_3.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_1_3.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 1.3 Intermediarios: concepto, tipos y clases.
 
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -462,7 +462,7 @@
             .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
               .p-4.text-center
                 h5 Integrados
-                p.mb-0  Forman parte de una estructura empresarial vertical o corporativa. Pueden encontrarse en cadenas de retail como Walmart o Éxito.
+                p.mb-0  Forman parte de una estructura empresarial vertical o corporativa. Pueden encontrarse en cadenas de #[i retail] como Walmart o Éxito.
         .col-sm-12.col-md-6.col-lg-3.mb-cus
           .tarjeta.tarjeta-foto-hover
             .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/t1/33.png')

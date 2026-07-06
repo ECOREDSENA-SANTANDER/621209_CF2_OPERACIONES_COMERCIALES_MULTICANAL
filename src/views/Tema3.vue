@@ -21,7 +21,7 @@
       
       
       Separador
-      #t_3_1.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_3_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 3.1 Logística: concepto, funciones, actores y beneficios.
       
       
@@ -82,14 +82,14 @@
                 p.mb-0 Facilita el control de existencias y la reposición de productos. Se aplica mediante sistemas de inventario que ayudan a evitar faltantes o excesos. 
             .row(titulo="Procesamiento de pedidos")
               .col-sm-12.col-lg-12
-                p.mb-0 Incluye la recepción, preparación y despacho de pedidos. Se aplica especialmente en comercio electrónico, tiendas, centros de distribución y operaciones de retail. 
+                p.mb-0 Incluye la recepción, preparación y despacho de pedidos. Se aplica especialmente en comercio electrónico, tiendas, centros de distribución y operaciones de #[i retail]. 
             .row(titulo="Manejo de información")
               .col-sm-12.col-lg-12
                 p.mb-0 Permite controlar y hacer seguimiento a los datos logísticos. Se apoya en sistemas ERP, plataformas digitales y herramientas de trazabilidad. 
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/6.png', alt='')
 
-      p.mb-5(data-aos='fade-right') En la práctica, una empresa puede gestionar funciones logísticas mediante centros de fulfillment, operadores logísticos, sistemas de inventario y plataformas digitales. Estas funciones permiten coordinar el almacenamiento, la preparación de pedidos, el despacho y la entrega de productos al cliente o al punto de venta.
+      p.mb-5(data-aos='fade-right') En la práctica, una empresa puede gestionar funciones logísticas mediante centros de #[i fulfillment], operadores logísticos, sistemas de inventario y plataformas digitales. Estas funciones permiten coordinar el almacenamiento, la preparación de pedidos, el despacho y la entrega de productos al cliente o al punto de venta.
 
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
@@ -172,7 +172,7 @@
       
       
       Separador
-      #t_3_2.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_3_2.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 3.2 Logística inversa: concepto, funciones, ciclo, actores y beneficios.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -238,29 +238,29 @@
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3
           .bg-color-6.p-4.br-1.hcard-2.mb-cus
-            .row.justify-content-center.mb-3.d-none.d-lg-block
-              .col-7
+            .row.justify-content-center.mb-3
+              .col-7.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t3/14.svg')
             h3.text-center.text-white Retorno
             p.mb-0.text-white El cliente devuelve el producto por cambio, garantía, inconformidad, defecto, exceso o necesidad de disposición.
         .col-sm-12.col-lg-3
           .bg-color-7.p-4.br-1.hcard-2.mb-cus
-            .row.justify-content-center.mb-3.d-none.d-lg-block
-              .col-7
+            .row.justify-content-center.mb-3
+              .col-7.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t3/15.svg')
             h3.text-center.text-white Inspección
             p.mb-0.text-white La empresa evalúa el estado del producto para determinar sus condiciones y posibilidades de recuperación.
         .col-sm-12.col-lg-3
           .bg-color-4.p-4.br-1.hcard-2.mb-cus
-            .row.justify-content-center.mb-3.d-none.d-lg-block
-              .col-7
+            .row.justify-content-center.mb-3
+              .col-7.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t3/16.svg')
             h3.text-center Procesamiento
             p.mb-0 Se decide el destino del producto. Puede reutilizarse, repararse, reacondicionarse, revenderse, reciclarse o descartarse.
         .col-sm-12.col-lg-3
           .bg-color-3.p-4.br-1.hcard-2.mb-cus
-            .row.justify-content-center.mb-3.d-none.d-lg-block
-              .col-7
+            .row.justify-content-center.mb-3
+              .col-7.d-none.d-lg-block
                   img(src='@/assets/curso/temas/t3/17.svg')
             h3.text-center Redistribución
             p.mb-0 El producto reingresa al mercado o se gestiona su disposición final. Esta etapa busca optimizar recursos y reducir pérdidas. 

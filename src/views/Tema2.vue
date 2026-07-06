@@ -8,7 +8,7 @@
         h1 Relaciones y formatos comerciales
       
       
-      .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
+      .row.justify-content-center.mb-0.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/1.png', alt='') 
         .col-sm-12.col-lg-7
@@ -27,7 +27,7 @@
       
       
       Separador
-      #t_2_1.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_2_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 2.1 Acuerdos comerciales: concepto, tipos y funciones.
       
       p.mb-5(data-aos='fade-right') En la distribución comercial, las relaciones entre los actores del canal requieren condiciones que orienten la negociación y la operación. En este contexto, los acuerdos comerciales facilitan la coordinación, optimizan procesos y fortalecen la gestión de la comercialización.  
@@ -137,12 +137,12 @@
             p.mb-0.text-center Genera relaciones comerciales sostenibles. Su impacto se refleja en el fortalecimiento de alianzas estratégicas.
 
 
-      p.mb-0(data-aos='fade-right') En la práctica, una empresa puede establecer acuerdos con proveedores para garantizar abastecimiento continuo, condiciones de exhibición y estrategias promocionales. También puede regular un marketplace mediante acuerdos que definan condiciones de venta para terceros. 
+      p.mb-0(data-aos='fade-right') En la práctica, una empresa puede establecer acuerdos con proveedores para garantizar abastecimiento continuo, condiciones de exhibición y estrategias promocionales. También puede regular un #[i marketplace] mediante acuerdos que definan condiciones de venta para terceros. 
 
 
       
       Separador
-      #t_2_2.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_2_2.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 2.2 Formatos comerciales: concepto, tipos y clasificación.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')

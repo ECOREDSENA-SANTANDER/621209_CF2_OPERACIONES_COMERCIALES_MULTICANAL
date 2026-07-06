@@ -11,14 +11,14 @@
         .col-sm-12.col-lg-7
             p.mb-3 Las estrategias de distribución y la gestión de inventarios permiten organizar la manera en que los productos llegan al mercado y se mantienen disponibles para responder a la demanda. Una empresa no solo debe decidir por qué canal venderá sus productos, sino también cómo controlará sus existencias, cómo evitará faltantes y cómo reducirá costos asociados al almacenamiento o al exceso de productos.
             .cajon.color-acento-contenido.p-4.mb-0
-              p.mb-0 En la gestión comercial, estos temas se relacionan directamente con la cobertura del mercado, la satisfacción del cliente, la rentabilidad y la eficiencia logística. Por esta razón, las decisiones sobre distribución, inventario y stock deben responder al tipo de producto, al comportamiento del consumidor, a la capacidad logística de la organización y a las condiciones del mercado.
+              p.mb-0 En la gestión comercial, estos temas se relacionan directamente con la cobertura del mercado, la satisfacción del cliente, la rentabilidad y la eficiencia logística. Por esta razón, las decisiones sobre distribución, inventario y #[i stock] deben responder al tipo de producto, al comportamiento del consumidor, a la capacidad logística de la organización y a las condiciones del mercado.
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t4/1.png', alt='') 
       
       
       
       Separador
-      #t_4_1.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_4_1.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 4.1 Estrategias de distribución: concepto, tipos y clasificación.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -104,16 +104,16 @@
 
 
       Separador
-      #t_4_2.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_4_2.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 4.2 Inventario: concepto, tipos, rotación y métodos.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-7
             p.mb-3 En la gestión de la distribución comercial, el control de los productos disponibles es un elemento clave para garantizar la continuidad de las operaciones y la satisfacción del cliente. El inventario permite a las empresas responder a la demanda del mercado, evitando faltantes o excesos que puedan afectar la rentabilidad y el nivel de servicio.
-            .cajon.color-primario.p-4.mb-0
+            .cajon.color-secundario.p-4.mb-0
               p.mb-0 El inventario corresponde al conjunto de bienes o productos que una empresa mantiene almacenados con el propósito de ser utilizados en la producción o comercialización. Su gestión implica el control de entradas, salidas y niveles de existencias, permitiendo asegurar la disponibilidad del producto en el momento requerido.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/1.png', alt='') 
+          img(src='@/assets/curso/temas/t4/31.png', alt='') 
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-1.d-none.d-lg-block
@@ -159,7 +159,7 @@
                     .col-8
                       img(src='@/assets/curso/temas/t4/13.svg' alt='')
                   h5.text-center Inventario de productos terminados
-                  p.mb-0 Comprende productos listos para la venta. Se aplica en actividades comerciales y de retail.
+                  p.mb-0 Comprende productos listos para la venta. Se aplica en actividades comerciales y de #[i retail].
 
                 .tarjeta.bg-color-1.p-4
                   .row.justify-content-center.mb-3
@@ -252,7 +252,7 @@
       
       
       Separador
-      #t_4_3.titulo-segundo.color-acento-botones(data-aos='fade-right')
+      #t_4_3.titulo-segundo.color-secundario(data-aos='fade-right')
         h2 4.3 #[i Stock] de inventarios o existencias: concepto, beneficios y ubicación.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -260,22 +260,22 @@
           img(src='@/assets/curso/temas/t4/24.png', alt='')      
         .col-sm-12.col-lg-7
             p.mb-1 Dentro de la gestión de la distribución comercial, mantener niveles adecuados de productos disponibles es fundamental para garantizar la continuidad de las operaciones y la atención oportuna de la demanda. 
-            p.mb-3 El stock de inventarios permite a las empresas responder de manera eficiente a las necesidades del mercado, evitando tanto el desabastecimiento como el exceso de productos.
+            p.mb-3 El #[i stock] de inventarios permite a las empresas responder de manera eficiente a las necesidades del mercado, evitando tanto el desabastecimiento como el exceso de productos.
             .cajon.color-primario.p-4.mb-0
-              p.mb-0 El stock de inventarios, también denominado existencias, corresponde a la cantidad de productos que una empresa mantiene disponibles para satisfacer la demanda de sus clientes. Este concepto está directamente relacionado con la gestión del inventario, ya que implica definir niveles óptimos que permitan garantizar disponibilidad sin generar costos innecesarios.
-      p.mb-5(data-aos='fade-right') Un adecuado control del stock permite equilibrar la oferta y la demanda, evitando pérdidas por faltantes o por acumulación de productos. En el contexto empresarial, algunas tiendas manejan niveles de stock ajustados para garantizar alta rotación y reducción de costos, mientras que empresas de comercio electrónico utilizan sistemas automatizados para mantener niveles óptimos según la demanda.
+              p.mb-0 El #[i stock] de inventarios, también denominado existencias, corresponde a la cantidad de productos que una empresa mantiene disponibles para satisfacer la demanda de sus clientes. Este concepto está directamente relacionado con la gestión del inventario, ya que implica definir niveles óptimos que permitan garantizar disponibilidad sin generar costos innecesarios.
+      p.mb-5(data-aos='fade-right') Un adecuado control del #[i stock] permite equilibrar la oferta y la demanda, evitando pérdidas por faltantes o por acumulación de productos. En el contexto empresarial, algunas tiendas manejan niveles de #[i stock] ajustados para garantizar alta rotación y reducción de costos, mientras que empresas de comercio electrónico utilizan sistemas automatizados para mantener niveles óptimos según la demanda.
 
       .row.justify-content-center.mb-5.align-items-center.bg-color-1(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
           img(src='@/assets/curso/temas/t4/25.png', alt='')
         .col-sm-12.col-lg-7.p-4
-            h4.mb-3 Stock y existencias disponibles
-            p.mb-0 El stock corresponde a la cantidad de productos disponibles para atender la demanda de los clientes. Su control permite definir niveles adecuados de existencias, evitar desabastecimiento, reducir excesos y mantener equilibrio entre la oferta y la demanda. 
+            h4.mb-3 #[i Stock] y existencias disponibles
+            p.mb-0 El #[i stock] corresponde a la cantidad de productos disponibles para atender la demanda de los clientes. Su control permite definir niveles adecuados de existencias, evitar desabastecimiento, reducir excesos y mantener equilibrio entre la oferta y la demanda. 
 
       .titulo-sexto.color-secundario(data-aos="fade-right")
-        h4.mb-0 Beneficios del stock de inventarios
+        h4.mb-0 Beneficios del #[i stock] de inventarios
 
-      p.mb-5(data-aos='fade-right') El manejo adecuado del stock de inventarios genera beneficios que impactan directamente en la eficiencia operativa y la satisfacción del cliente. Estos beneficios se relacionan con la disponibilidad de productos, la reducción de faltantes, la optimización de operaciones y el control de costos.
+      p.mb-5(data-aos='fade-right') El manejo adecuado del #[i stock] de inventarios genera beneficios que impactan directamente en la eficiencia operativa y la satisfacción del cliente. Estos beneficios se relacionan con la disponibilidad de productos, la reducción de faltantes, la optimización de operaciones y el control de costos.
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-md-6.col-lg-3
@@ -306,13 +306,13 @@
                   img(src='@/assets/curso/temas/t4/29.svg')
             h3.text-center Control de costos
             p.mb-0 Permite evitar excesos de inventario. Su impacto se refleja en la mejora de la rentabilidad. 
-      p.mb-5(data-aos='fade-right') En la práctica, algunos supermercados mantienen niveles de stock que aseguran disponibilidad constante, mientras que empresas de comercio electrónico ajustan sus existencias de acuerdo con la demanda proyectada.
+      p.mb-5(data-aos='fade-right') En la práctica, algunos supermercados mantienen niveles de #[i stock] que aseguran disponibilidad constante, mientras que empresas de comercio electrónico ajustan sus existencias de acuerdo con la demanda proyectada.
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Ubicación del stock de inventarios
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Ubicación del #[i stock] de inventarios
 
-      p.mb-5(data-aos='fade-right') La ubicación del stock de inventarios hace referencia al lugar donde se almacenan los productos dentro de la cadena de distribución. Esta decisión influye en los tiempos de entrega, los costos logísticos y la eficiencia operativa.
+      p.mb-5(data-aos='fade-right') La ubicación del #[i stock] de inventarios hace referencia al lugar donde se almacenan los productos dentro de la cadena de distribución. Esta decisión influye en los tiempos de entrega, los costos logísticos y la eficiencia operativa.
 
       ImagenInfografica.color-acento-botones.mb-5
         template(v-slot:imagen)

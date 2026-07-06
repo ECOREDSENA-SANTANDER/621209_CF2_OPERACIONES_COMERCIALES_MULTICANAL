@@ -111,7 +111,7 @@ export default {
           {
             numero: '4.3',
             titulo:
-              '#[i Stock] de inventarios o existencias: concepto, beneficios y ubicación.',
+              '<i>Stock</i> de inventarios o existencias: concepto, beneficios y ubicación.',
             hash: 't_4_3',
           },
         ],
@@ -125,7 +125,7 @@ export default {
           {
             numero: '5.1',
             titulo:
-              '#[i Software] para georreferenciación: concepto y procedimiento de uso.',
+              '<i>Software</i> para georreferenciación: concepto y procedimiento de uso.',
             hash: 't_5_1',
           },
           {
