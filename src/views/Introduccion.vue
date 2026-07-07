@@ -21,12 +21,7 @@
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src='@/assets/curso/temas/intro/2.svg', alt='')
     
-    .row.justify-content-center.align-items-center           
-      .col-lg-12
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    
 </template>
 
 <script>

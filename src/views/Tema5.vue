@@ -296,8 +296,8 @@
           .tarjeta.clr--pink.p-4.rounded-0.h-100
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-              texto="Podcast: planeando la distribución: del canal a la entrega"
-              :audio="require_src('@/assets/actividad/audio/success.mp3')"
+              texto="Podcast. Planeando la distribución: del canal a la entrega"
+              :audio="require_src('@/assets/curso/temas/audio/podcast2.mp4')"
           )
 
       .row.justify-content-center.mb-0.align-items-center(data-aos='fade-right')

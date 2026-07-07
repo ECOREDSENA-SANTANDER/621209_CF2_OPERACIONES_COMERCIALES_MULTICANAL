@@ -359,8 +359,8 @@
           .tarjeta.clr--pink.p-4.rounded-0.h-100
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-              texto="Podcast: la logística y la distribución hoy"
-              :audio="require_src('@/assets/actividad/audio/success.mp3')"
+              texto="Podcast. La logística y la distribución hoy"
+              :audio="require_src('@/assets/curso/temas/audio/podcast1.mp3')"
           )
   </template>
 
