@@ -22,7 +22,7 @@
       
       Separador
       #t_3_1.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 3.1 Logística: concepto, funciones, actores y beneficios.
+        h2 3.1 Logística: concepto, funciones, actores y beneficios
       
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -61,7 +61,7 @@
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/f6HuJKPbZI0?si=rpPGORSk57HbvyFr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption Video: Logistica
+            figcaption Video: Logística
 
 
       .titulo-sexto.color-secundario(data-aos="fade-right")
@@ -85,7 +85,7 @@
                 p.mb-0 Incluye la recepción, preparación y despacho de pedidos. Se aplica especialmente en comercio electrónico, tiendas, centros de distribución y operaciones de #[i retail]. 
             .row(titulo="Manejo de información")
               .col-sm-12.col-lg-12
-                p.mb-0 Permite controlar y hacer seguimiento a los datos logísticos. Se apoya en sistemas ERP, plataformas digitales y herramientas de trazabilidad. 
+                p.mb-0 Permite controlar y hacer seguimiento a los datos logísticos. Se apoya en sistemas #[i ERP], plataformas digitales y herramientas de trazabilidad. 
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/6.png', alt='')
 
@@ -173,7 +173,7 @@
       
       Separador
       #t_3_2.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 3.2 Logística inversa: concepto, funciones, ciclo, actores y beneficios.
+        h2 3.2 Logística inversa: concepto, funciones, ciclo, actores y beneficios
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -359,7 +359,7 @@
           .tarjeta.clr--pink.p-4.rounded-0.h-100
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-              texto="Podcast. La logística y la distribución hoy"
+              texto="Pódcast. La logística y la distribución hoy"
               :audio="require_src('@/assets/curso/temas/audio/podcast1.mp3')"
           )
   </template>

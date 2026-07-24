@@ -19,7 +19,7 @@
       
       Separador
       #t_4_1.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 4.1 Estrategias de distribución: concepto, tipos y clasificación.
+        h2 4.1 Estrategias de distribución: concepto, tipos y clasificación
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-4.bg-color-3.px-4.py-4.mb-cus
@@ -105,7 +105,7 @@
 
       Separador
       #t_4_2.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 4.2 Inventario: concepto, tipos, rotación y métodos.
+        h2 4.2 Inventario: concepto, tipos, rotación y métodos
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-7
@@ -212,14 +212,14 @@
             .row.justify-content-center.mb-4
               .col-7
                   img.mx-auto(src='@/assets/curso/temas/t4/19.svg')
-            h4.text-center PEPS (FIFO)
-            p.mb-0.text-center Los primeros productos en entrar son los primeros en salir. Se aplica principalmente en productos perecederos o con fecha de vencimiento
+            h4.text-center #[i PEPS (FIFO)]
+            p.mb-0.text-center Los primeros productos en entrar son los primeros en salir. Se aplica principalmente en productos perecederos o con fecha de vencimiento.
         .col-sm-6.col-lg-3.mb-cus
           .tarjeta--boton.color-secundario.p-4.hcard-3
             .row.justify-content-center.mb-4
               .col-7
                   img.mx-auto(src='@/assets/curso/temas/t4/20.svg')
-            h4.text-center UEPS (LIFO)
+            h4.text-center #[i UEPS (LIFO)]
             p.mb-0.text-center Los últimos productos en entrar son los primeros en salir. Se utiliza en contextos contables específicos, según las condiciones de manejo del inventario.
         .col-sm-6.col-lg-3.mb-cus
           .tarjeta--boton.color-secundario.p-4.hcard-3
@@ -253,7 +253,7 @@
       
       Separador
       #t_4_3.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 4.3 #[i Stock] de inventarios o existencias: concepto, beneficios y ubicación.
+        h2 4.3 #[i Stock] de inventarios o existencias: concepto, beneficios y ubicación
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block

@@ -38,18 +38,18 @@ export default {
           {
             numero: '1.1',
             titulo:
-              'Distribución: concepto, tipos, plan, sistemas y utilidades.',
+              'Distribución: concepto, tipos, plan, sistemas y utilidades',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
             titulo:
-              'Canales de distribución: concepto, clasificación, características, estructura y métodos de selección.',
+              'Canales de distribución: concepto, clasificación, características, estructura y métodos de selección',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Intermediarios: concepto, tipos y clases.',
+            titulo: 'Intermediarios: concepto, tipos y clases',
             hash: 't_1_3',
           },
         ],
@@ -62,12 +62,12 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Acuerdos comerciales: concepto, tipos y funciones.',
+            titulo: 'Acuerdos comerciales: concepto, tipos y funciones',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Formatos comerciales: concepto, tipos y clasificación.',
+            titulo: 'Formatos comerciales: concepto, tipos y clasificación',
             hash: 't_2_2',
           },
         ],
@@ -80,13 +80,13 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Logística: concepto, funciones, actores y beneficios.',
+            titulo: 'Logística: concepto, funciones, actores y beneficios',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
             titulo:
-              'Logística inversa: concepto, funciones, ciclo, actores y beneficios.',
+              'Logística inversa: concepto, funciones, ciclo, actores y beneficios',
             hash: 't_3_2',
           },
         ],
@@ -100,18 +100,18 @@ export default {
           {
             numero: '4.1',
             titulo:
-              'Estrategias de distribución: concepto, tipos y clasificación.',
+              'Estrategias de distribución: concepto, tipos y clasificación',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Inventario: concepto, tipos, rotación y métodos.',
+            titulo: 'Inventario: concepto, tipos, rotación y métodos',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
             titulo:
-              '<i>Stock</i> de inventarios o existencias: concepto, beneficios y ubicación.',
+              '<i>Stock</i> de inventarios o existencias: concepto, beneficios y ubicación',
             hash: 't_4_3',
           },
         ],
@@ -125,13 +125,13 @@ export default {
           {
             numero: '5.1',
             titulo:
-              '<i>Software</i> para georreferenciación: concepto y procedimiento de uso.',
+              '<i>Software</i> para georreferenciación: concepto y procedimiento de uso',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
             titulo:
-              'Plan de distribución: concepto, estructura, etapas y ejemplo aplicado.',
+              'Plan de distribución: concepto, estructura, etapas y ejemplo aplicado',
             hash: 't_5_2',
           },
         ],
@@ -305,7 +305,7 @@ export default {
     },
     {
       referencia:
-        'Levy, M., & Weitz, B. (2012). Administración de ventas al detal (retail) (8.ª ed.). McGraw-Hill.',
+        'Levy, M., & Weitz, B. (2012). Administración de ventas al detal (<i>retail</i>) (8.ª ed.). McGraw-Hill.',
     },
     {
       referencia:
@@ -384,12 +384,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '--',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

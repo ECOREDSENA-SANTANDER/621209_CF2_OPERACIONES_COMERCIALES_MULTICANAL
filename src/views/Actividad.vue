@@ -489,7 +489,7 @@ export default {
             {
               id: 'd',
               texto:
-                'PEPS, porque permite sacar primero los productos que ingresaron primero.',
+                '<i>PEPS</i>, porque permite sacar primero los productos que ingresaron primero.',
               esCorrecta: true,
             },
           ],

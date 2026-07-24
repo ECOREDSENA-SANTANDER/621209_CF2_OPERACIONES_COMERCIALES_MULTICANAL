@@ -16,7 +16,7 @@
       
       Separador
       #t_5_1.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 5.1 #[i Software] para georreferenciación: concepto y procedimiento de uso.
+        h2 5.1 #[i Software] para georreferenciación: concepto y procedimiento de uso
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-9
@@ -81,7 +81,7 @@
 
       Separador
       #t_5_2.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 5.2 Plan de distribución: concepto, estructura, etapas y ejemplo aplicado.
+        h2 5.2 Plan de distribución: concepto, estructura, etapas y ejemplo aplicado
       p.mb-5(data-aos='fade-right') En la gestión comercial, la planificación de la distribución permite organizar de manera estructurada cómo los productos llegarán al cliente final. Este proceso integra decisiones estratégicas y operativas orientadas a optimizar recursos, mejorar la cobertura del mercado y garantizar un servicio eficiente.
 
 
@@ -296,7 +296,7 @@
           .tarjeta.clr--pink.p-4.rounded-0.h-100
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-              texto="Podcast. Planeando la distribución: del canal a la entrega"
+              texto="Pódcast. Planeando la distribución: del canal a la entrega"
               :audio="require_src('@/assets/curso/temas/audio/podcast2.mp4')"
           )
 

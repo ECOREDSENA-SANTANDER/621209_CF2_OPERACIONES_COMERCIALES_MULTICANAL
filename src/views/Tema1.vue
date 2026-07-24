@@ -28,7 +28,7 @@
       
       Separador
       #t_1_1.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 1.1 Distribución: concepto, tipos, plan, sistemas y utilidades.
+        h2 1.1 Distribución: concepto, tipos, plan, sistemas y utilidades
       
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -220,7 +220,7 @@
 
       Separador
       #t_1_2.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 1.2 Canales de distribución: concepto, clasificación, características, estructura y métodos de selección.
+        h2 1.2 Canales de distribución: concepto, clasificación, características, estructura y métodos de selección
       
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
@@ -271,7 +271,7 @@
             .col-6
                 img(src='@/assets/curso/temas/t1/22.svg')          
           h4.text-center.text-white Canal indirecto largo
-          p.mb-0.text-white Incluye varios intermediarios, como mayoristas y minoristas. La ruta se organiza así: fabricante -> mayorista minorista -> consumidor.
+          p.mb-0.text-white Incluye varios intermediarios, como mayoristas y minoristas. La ruta se organiza así: fabricante -> mayorista -> minorista -> consumidor.
         
       .titulo-sexto.color-secundario(data-aos="fade-right")
         h4.mb-0 Características de los canales de distribución 
@@ -338,6 +338,9 @@
             p.mb-0 La selección de canales de distribución es un proceso estratégico que define cuáles intermediarios o medios serán utilizados para llevar el producto al mercado. Esta decisión debe considerar factores comerciales, logísticos y de mercado, con el fin de escoger el canal más adecuado para el producto y el cliente.
 
       p.mb-5(data-aos='fade-right') En este caso, sí conviene conservar una tabla porque permite comparar los criterios de decisión, su descripción y su aplicación. 
+      .titulo-sexto.color-primario.mb-3
+          h5 Tabla 1.  
+          span.mb-0 Métodos de selección de canales
       .tabla-a.color-acento-botones.mb-5(data-aos='fade-right')
         table
           thead
@@ -374,7 +377,7 @@
       img.mb-5.d-none.d-lg-block(src='@/assets/curso/temas/t1/26.png', alt='')(data-aos='fade-right')
 
       p.mb-3(data-aos='fade-right') Para fortalecer la comprensión sobre los canales de distribución, se recomienda consultar el video “Canales de distribución”, en el cual se explica cómo las empresas utilizan diferentes medios físicos y digitales para acercar los productos al cliente final.
-      p.mb-5(data-aos='fade-right') Durante la consulta del recurso, identifique cómo el mercado actual exige productos disponibles, accesibles, de calidad y a costos razonables. También reconozca la importancia de integrar tiendas físicas, tiendas online, canales de comunicación y estrategias multicanal como alternativas complementarias para mejorar la cobertura, la competitividad y la relación con los clientes. 
+      p.mb-5(data-aos='fade-right') Durante la consulta del recurso, identifique cómo el mercado actual exige productos disponibles, accesibles, de calidad y a costos razonables. También reconozca la importancia de integrar tiendas físicas, tiendas #[i online], canales de comunicación y estrategias multicanal como alternativas complementarias para mejorar la cobertura, la competitividad y la relación con los clientes. 
 
       .row.justify-content-center.align-items-center.mb-5(data-aos='fade-right')       
         .col-lg-12
@@ -390,7 +393,7 @@
 
       Separador
       #t_1_3.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 1.3 Intermediarios: concepto, tipos y clases.
+        h2 1.3 Intermediarios: concepto, tipos y clases
 
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block

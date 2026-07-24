@@ -28,7 +28,7 @@
       
       Separador
       #t_2_1.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 2.1 Acuerdos comerciales: concepto, tipos y funciones.
+        h2 2.1 Acuerdos comerciales: concepto, tipos y funciones
       
       p.mb-5(data-aos='fade-right') En la distribución comercial, las relaciones entre los actores del canal requieren condiciones que orienten la negociación y la operación. En este contexto, los acuerdos comerciales facilitan la coordinación, optimizan procesos y fortalecen la gestión de la comercialización.  
       
@@ -143,7 +143,7 @@
       
       Separador
       #t_2_2.titulo-segundo.color-secundario(data-aos='fade-right')
-        h2 2.2 Formatos comerciales: concepto, tipos y clasificación.
+        h2 2.2 Formatos comerciales: concepto, tipos y clasificación
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -227,7 +227,7 @@
                 p.mb-0 Permite diferenciar entre autoservicio y servicio asistido. En el autoservicio, el cliente selecciona directamente los productos. En el servicio asistido, requiere apoyo del vendedor durante el proceso de compra.
             .row(numero="2" titulo="Canal de operación")
               .col-12
-                p.mb-0 Permite diferenciar entre formato físico y formato digital. El formato físico se desarrolla en un punto de venta tradicional, mientras que el formato digital funciona mediante plataformas online o aplicaciones.
+                p.mb-0 Permite diferenciar entre formato físico y formato digital. El formato físico se desarrolla en un punto de venta tradicional, mientras que el formato digital funciona mediante plataformas #[i online] o aplicaciones.
             .row(numero="3" titulo="Propiedad del negocio")
               .col-12
                 p.mb-0 Permite diferenciar entre negocio independiente y cadena. El negocio independiente opera de manera individual, mientras que la cadena pertenece a una empresa con múltiples puntos de venta.
