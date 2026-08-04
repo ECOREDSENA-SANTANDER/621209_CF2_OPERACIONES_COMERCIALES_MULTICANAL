@@ -349,7 +349,7 @@
 
       img.d-none.d-lg-block.mb-5(src='@/assets/curso/temas/t3/22.png', alt='', data-aos='fade-right')
 
-      p.mb-3(data-aos='fade-right') Para cerrar el estudio de la logística aplicada a la distribución, se recomienda consultar el podcast “La logística y la distribución hoy”. Este recurso permite relacionar los conceptos de logística, distribución y logística inversa con situaciones reales del entorno comercial, como la entrega de productos, el manejo de inventarios, el procesamiento de pedidos, las devoluciones y la experiencia del cliente.  
+      p.mb-3(data-aos='fade-right') Para cerrar el estudio de la logística aplicada a la distribución, se recomienda consultar el pódcast “La logística y la distribución hoy”. Este recurso permite relacionar los conceptos de logística, distribución y logística inversa con situaciones reales del entorno comercial, como la entrega de productos, el manejo de inventarios, el procesamiento de pedidos, las devoluciones y la experiencia del cliente.  
 
       p.mb-5(data-aos='fade-right') Durante la consulta del recurso, identifique cómo la logística permite que el producto avance hacia el cliente, cómo la distribución concreta su llegada al mercado y cómo la logística inversa gestiona el retorno cuando se presentan devoluciones, cambios, recuperación o disposición final de productos.
 
