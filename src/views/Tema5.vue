@@ -286,7 +286,7 @@
                   p.mb-0 Se verifica la recepción del producto por parte del cliente para cerrar el proceso, controlar el servicio y facilitar acciones de mejora.
 
       img.mb-5.d-none.d-lg-block(src='@/assets/curso/temas/t5/20.png', alt='')
-      p.mb-3(data-aos='fade-right') Para complementar el ejemplo aplicado del plan de distribución, se recomienda consultar el podcast Planeando la distribución: del canal a la entrega. Este recurso permite relacionar la selección de canales, la organización de rutas, el uso de recursos logísticos, la definición de indicadores y la mejora continua dentro de un plan de distribución comercial.
+      p.mb-3(data-aos='fade-right') Para complementar el ejemplo aplicado del plan de distribución, se recomienda consultar el pódcast Planeando la distribución: del canal a la entrega. Este recurso permite relacionar la selección de canales, la organización de rutas, el uso de recursos logísticos, la definición de indicadores y la mejora continua dentro de un plan de distribución comercial.
       p.mb-5(data-aos='fade-right') Durante la consulta del recurso, identifique cómo una empresa puede pasar de una idea general de entrega a un plan organizado, con decisiones claras sobre canales, tiempos, zonas de cobertura, recursos e indicadores de seguimiento.
 
       img.mb-0.d-none.d-lg-block(src='@/assets/curso/temas/t5/22.svg', data-aos='fade-right')
