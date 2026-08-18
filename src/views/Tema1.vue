@@ -337,7 +337,6 @@
         .col-sm-12.col-lg-11
             p.mb-0 La selección de canales de distribución es un proceso estratégico que define cuáles intermediarios o medios serán utilizados para llevar el producto al mercado. Esta decisión debe considerar factores comerciales, logísticos y de mercado, con el fin de escoger el canal más adecuado para el producto y el cliente.
 
-      p.mb-5(data-aos='fade-right') En este caso, sí conviene conservar una tabla porque permite comparar los criterios de decisión, su descripción y su aplicación. 
       .titulo-sexto.color-primario.mb-3
           h5 Tabla 1.  
           span.mb-0 Métodos de selección de canales

@@ -42,7 +42,7 @@
           img(src='@/assets/curso/temas/t5/23.png', alt='')
         .col-sm-12.col-lg-7.p-4
             h4.mb-3 Georreferenciación para mejorar la distribución
-            p.mb-0 El #[i software] para georreferenciación permite ubicar clientes, puntos de venta, rutas y centros de distribución en mapas digitales. Su uso ayuda a planificar recorridos, analizar zonas de cobertura, reducir tiempos de desplazamiento y tomar decisiones logísticas con base en información geográfica. 
+            p.mb-0 Mediante el análisis de información geográfica, una empresa puede identificar concentraciones de clientes, comparar zonas de cobertura y evaluar alternativas de recorrido. Esta información facilita la definición de rutas más eficientes y apoya decisiones orientadas a reducir tiempos y costos de distribución. 
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')

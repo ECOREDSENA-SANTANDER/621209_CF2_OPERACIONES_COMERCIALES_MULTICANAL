@@ -282,18 +282,18 @@ export default {
   referencias: [
     {
       referencia:
-        'Ballou, R. H. (2004). Logística: administración de la cadena de suministro (5.ª ed.). Pearson Educación.',
+        'Ballou, R. H. (2004). Logística: Administración de la cadena de suministro (5.ª ed.). Pearson Educación.',
     },
     {
       referencia:
-        'Chopra, S., & Meindl, P. (2013). Administración de la cadena de suministro: estrategia, planeación y operación (5.ª ed.). Pearson Educación.',
+        'Chopra, S., & Meindl, P. (2013). Administración de la cadena de suministro: Estrategia, planeación y operación (5.ª ed.). Pearson Educación.',
     },
     {
       referencia:
         'Christopher, M. (2016). Logística y gestión de la cadena de suministro (5.ª ed.). Pearson Educación.',
     },
     {
-      referencia: 'Esri. (2023). ArcGIS Pro: descripción general del producto.',
+      referencia: 'Esri. (2023). ArcGIS Pro: Descripción general del producto.',
     },
     {
       referencia:
@@ -305,7 +305,7 @@ export default {
     },
     {
       referencia:
-        'Levy, M., & Weitz, B. (2012). Administración de ventas al detal (<i>retail</i>) (8.ª ed.). McGraw-Hill.',
+        'Levy, M., & Weitz, B. (2012). Administración de ventas al detal (retail) (8.ª ed.). McGraw-Hill.',
     },
     {
       referencia:
@@ -324,8 +324,7 @@ export default {
         'Soret, I. (2013). Logística comercial y empresarial. ESIC Editorial.',
     },
     {
-      referencia:
-        'WWF Sustainable Consumption Platform. (2022). Guía de abastecimiento sostenible. WWF SCP.',
+      referencia: 'WWF Colombia. (2022). Guía de abastecimiento sostenible.',
     },
   ],
   creditos: [

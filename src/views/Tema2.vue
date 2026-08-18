@@ -227,7 +227,7 @@
                 p.mb-0 Permite diferenciar entre autoservicio y servicio asistido. En el autoservicio, el cliente selecciona directamente los productos. En el servicio asistido, requiere apoyo del vendedor durante el proceso de compra.
             .row(numero="2" titulo="Canal de operación")
               .col-12
-                p.mb-0 Permite diferenciar entre formato físico y formato digital. El formato físico se desarrolla en un punto de venta tradicional, mientras que el formato digital funciona mediante plataformas #[i online] o aplicaciones.
+                p.mb-0 Permite diferenciar entre formato físico y formato digital. El formato físico se desarrolla en establecimientos o espacios presenciales de comercialización, como tiendas, supermercados, hipermercados y otros puntos de venta, mientras que el formato digital funciona mediante plataformas en línea o aplicaciones.
             .row(numero="3" titulo="Propiedad del negocio")
               .col-12
                 p.mb-0 Permite diferenciar entre negocio independiente y cadena. El negocio independiente opera de manera individual, mientras que la cadena pertenece a una empresa con múltiples puntos de venta.

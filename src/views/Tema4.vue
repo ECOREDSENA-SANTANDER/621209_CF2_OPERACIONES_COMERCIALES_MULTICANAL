@@ -270,7 +270,7 @@
           img(src='@/assets/curso/temas/t4/25.png', alt='')
         .col-sm-12.col-lg-7.p-4
             h4.mb-3 #[i Stock] y existencias disponibles
-            p.mb-0 El #[i stock] corresponde a la cantidad de productos disponibles para atender la demanda de los clientes. Su control permite definir niveles adecuados de existencias, evitar desabastecimiento, reducir excesos y mantener equilibrio entre la oferta y la demanda. 
+            p.mb-0 El #[i stock] corresponde a la cantidad de productos disponibles para atender la demanda de los clientes. Su control permite definir niveles adecuados de existencias, evitar desabastecimiento, reducir excesos y mantener el equilibrio entre la oferta y la demanda. 
 
       .titulo-sexto.color-secundario(data-aos="fade-right")
         h4.mb-0 Beneficios del #[i stock] de inventarios
